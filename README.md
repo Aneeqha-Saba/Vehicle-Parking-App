@@ -87,7 +87,7 @@ A full-stack web application for managing vehicle parking lots, spots, and reser
 
 ```bash
 git clone <repository-url>
-cd 23f1001225-Vehicle-Parking-App
+cd Vehicle-Parking-App
 ```
 
 ### 2. Backend setup
