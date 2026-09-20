@@ -2,7 +2,6 @@
 
 A full-stack web application for managing vehicle parking lots, spots, and reservations. The system supports two roles — **Admin** and **User** — with role-based dashboards, real-time spot availability, booking workflows, analytics, and background jobs for reports and notifications.
 
-**Student ID:** 23f1001225
 
 ---
 
