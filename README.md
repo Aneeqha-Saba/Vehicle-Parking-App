@@ -266,4 +266,4 @@ Update these values for production deployments.
 
 ## License
 
-This project was developed as part of an academic assignment (MAD-II).
+This project was developed as part of an academic assignment IIT Madras MAD-II course.
